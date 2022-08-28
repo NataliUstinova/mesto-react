@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NataliUstinova/mesto-react/static/css/main.038c747b.css",
-    "main.js": "/NataliUstinova/mesto-react/static/js/main.f86a100a.js",
+    "main.js": "/NataliUstinova/mesto-react/static/js/main.9f775620.js",
     "static/js/787.5530211c.chunk.js": "/NataliUstinova/mesto-react/static/js/787.5530211c.chunk.js",
     "static/media/Inter-Medium.woff?v=3.19": "/NataliUstinova/mesto-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff?v=3.19": "/NataliUstinova/mesto-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -21,11 +21,11 @@
     "static/media/edit-avatar.svg": "/NataliUstinova/mesto-react/static/media/edit-avatar.a086f758840ae814ecde.svg",
     "static/media/close-icon.svg": "/NataliUstinova/mesto-react/static/media/close-icon.2ceb783afbab75916ddc.svg",
     "main.038c747b.css.map": "/NataliUstinova/mesto-react/static/css/main.038c747b.css.map",
-    "main.f86a100a.js.map": "/NataliUstinova/mesto-react/static/js/main.f86a100a.js.map",
+    "main.9f775620.js.map": "/NataliUstinova/mesto-react/static/js/main.9f775620.js.map",
     "787.5530211c.chunk.js.map": "/NataliUstinova/mesto-react/static/js/787.5530211c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.038c747b.css",
-    "static/js/main.f86a100a.js"
+    "static/js/main.9f775620.js"
   ]
 }
